@@ -1,0 +1,6 @@
+C:\Users\Erick Contreras\Desktop\URL\Segundo Ciclo\Progra\Proyecto_PrograAvanzadaCII2017\PruebasConsolsa\PruebasConsolsa\bin\Debug\PruebasConsolsa.exe.config
+C:\Users\Erick Contreras\Desktop\URL\Segundo Ciclo\Progra\Proyecto_PrograAvanzadaCII2017\PruebasConsolsa\PruebasConsolsa\bin\Debug\PruebasConsolsa.exe
+C:\Users\Erick Contreras\Desktop\URL\Segundo Ciclo\Progra\Proyecto_PrograAvanzadaCII2017\PruebasConsolsa\PruebasConsolsa\bin\Debug\PruebasConsolsa.pdb
+C:\Users\Erick Contreras\Desktop\URL\Segundo Ciclo\Progra\Proyecto_PrograAvanzadaCII2017\PruebasConsolsa\PruebasConsolsa\obj\Debug\PruebasConsolsa.csprojResolveAssemblyReference.cache
+C:\Users\Erick Contreras\Desktop\URL\Segundo Ciclo\Progra\Proyecto_PrograAvanzadaCII2017\PruebasConsolsa\PruebasConsolsa\obj\Debug\PruebasConsolsa.exe
+C:\Users\Erick Contreras\Desktop\URL\Segundo Ciclo\Progra\Proyecto_PrograAvanzadaCII2017\PruebasConsolsa\PruebasConsolsa\obj\Debug\PruebasConsolsa.pdb
